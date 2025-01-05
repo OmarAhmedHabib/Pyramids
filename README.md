@@ -1,2 +1,0 @@
-# Pyramids
-Pyramids
